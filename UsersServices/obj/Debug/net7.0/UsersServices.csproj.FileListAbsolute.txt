@@ -1,0 +1,17 @@
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersServices.deps.json
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersServices.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersServices.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersModels.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersRepository.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersRepository.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\bin\Debug\net7.0\UsersModels.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.csproj.AssemblyReference.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.AssemblyInfoInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.AssemblyInfo.cs
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.csproj.CoreCompileInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.csproj.CopyComplete
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\refint\UsersServices.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\UsersServices.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersServices\obj\Debug\net7.0\ref\UsersServices.dll

@@ -1,0 +1,17 @@
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\bin\Debug\net7.0\UsersRepository.deps.json
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\bin\Debug\net7.0\UsersRepository.runtimeconfig.json
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\bin\Debug\net7.0\UsersRepository.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\bin\Debug\net7.0\UsersRepository.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\bin\Debug\net7.0\UsersModels.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\bin\Debug\net7.0\UsersModels.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.csproj.AssemblyReference.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.AssemblyInfoInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.AssemblyInfo.cs
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.csproj.CoreCompileInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.csproj.CopyComplete
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\refint\UsersRepository.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\UsersRepository.genruntimeconfig.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersRepository\obj\Debug\net7.0\ref\UsersRepository.dll

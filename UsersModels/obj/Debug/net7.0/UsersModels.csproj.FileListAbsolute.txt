@@ -1,0 +1,12 @@
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.csproj.AssemblyReference.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.AssemblyInfoInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.AssemblyInfo.cs
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.csproj.CoreCompileInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\bin\Debug\net7.0\UsersModels.deps.json
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\bin\Debug\net7.0\UsersModels.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\bin\Debug\net7.0\UsersModels.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\refint\UsersModels.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\UsersModels.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersModels\obj\Debug\net7.0\ref\UsersModels.dll
