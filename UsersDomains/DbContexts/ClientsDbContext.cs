@@ -7,8 +7,7 @@ namespace UsersDomains.DbContexts;
 
 public class ClientsDbContext : DbContext
 {
-    /*$env:APPSETTINGS_PATH="C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersApi\appsettings.json"; dotnet ef migrations add InitialCreate --context UsersDbContext*/
-    /*$env:APPSETTINGS_PATH="C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersApi\appsettings.json"; dotnet ef database update --context UsersDbContext*/
+    
     public ClientsDbContext(DbContextOptions<ClientsDbContext> options)
         : base(options)
     { }
