@@ -1,0 +1,17 @@
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\bin\Debug\net7.0\UsersDomains.deps.json
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\bin\Debug\net7.0\UsersDomains.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\bin\Debug\net7.0\UsersDomains.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\bin\Debug\net7.0\UsersModels.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\bin\Debug\net7.0\UsersModels.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.csproj.AssemblyReference.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.AssemblyInfoInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.AssemblyInfo.cs
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.csproj.CoreCompileInputs.cache
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.csproj.CopyComplete
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\refint\UsersDomains.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.pdb
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\ref\UsersDomains.dll
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\bin\Debug\net7.0\UsersDomains.runtimeconfig.json
+C:\Users\ChristianGarciaMarti\Desktop\dotnet\api\UsersProject\UsersDomains\obj\Debug\net7.0\UsersDomains.genruntimeconfig.cache

@@ -11,12 +11,18 @@
         <PackageReference Include="dapper" Version="2.1.24" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.4" />
         <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.2" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+          <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     </ItemGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\UsersDomains\UsersDomains.csproj" />
         <ProjectReference Include="..\UsersRepository\UsersRepository.csproj" />
         <ProjectReference Include="..\UsersServices\UsersServices.csproj" />
+        <ProjectReference Include="..\UsersDomains\UsersDomains.csproj" />
     </ItemGroup>
 
 </Project>

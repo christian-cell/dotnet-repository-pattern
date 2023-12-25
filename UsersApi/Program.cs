@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using UsersDomains.DbContexts;
 using UsersRepository.Abstractions;
 using UsersRepository.Implementations;
 using UsersServices.Services;
@@ -15,6 +16,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUsersRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UsersService>(); 
+builder.Services.AddDbContext<UsersDbContext>();
 builder.Services.AddDbContext<YourDbContext>(options =>
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
