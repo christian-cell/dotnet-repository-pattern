@@ -9,7 +9,7 @@ public class ProductDbContext : DbContext
 {
 
     /* 
-    * install dotnet tool install --global dotnet-ef
+    * install for .NET 7.0.0 dotnet tool install --global dotnet-ef --version 6.0.2 
     * once everything is done run these following commands
     * dotnet ef migrations add productos_first_migration --context ProductDbContext
     * dotnet ef database update --context ProductDbContext
