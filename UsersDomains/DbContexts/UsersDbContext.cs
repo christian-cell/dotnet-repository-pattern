@@ -5,7 +5,10 @@ using UsersModels.Models;
 
 namespace UsersDomains.DbContexts
 {
-    
+/*
+ * run : dotnet ef migrations add <migrationName> --context <ContextName> 
+ * run : dotnet ef database update --context <ContextName>
+ */    
     public class UsersDbContext : DbContext
     {
         public UsersDbContext(DbContextOptions<UsersDbContext> options)
